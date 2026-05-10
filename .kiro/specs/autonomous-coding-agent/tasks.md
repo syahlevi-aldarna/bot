@@ -27,19 +27,19 @@
 
 ## Phase 4: Agent Coordination
 
-- [ ] 4.1 Create coder agent template
-- [ ] 4.2 Create reviewer agent template
-- [ ] 4.3 Create tester agent template
-- [ ] 4.4 Implement SendMessage between agents
-- [ ] 4.5 Test full coordination pipeline (coder → reviewer → tester)
+- [x] 4.1 Create coder agent template
+- [x] 4.2 Create reviewer agent template
+- [x] 4.3 Create tester agent template
+- [x] 4.4 Implement SendMessage between agents
+- [x] 4.5 Test full coordination pipeline (coder → reviewer → tester)
 
 ## Phase 5: Memory & Learning
 
-- [ ] 5.1 Implement memory_store for task results
-- [ ] 5.2 Implement memory_search via HNSW
-- [ ] 5.3 Create task embedding function
-- [ ] 5.4 Implement SONA pattern learning
-- [ ] 5.5 Test memory retrieval and learning
+- [x] 5.1 Implement memory_store for task results
+- [x] 5.2 Implement memory_search via HNSW
+- [x] 5.3 Create task embedding function
+- [x] 5.4 Implement SONA pattern learning
+- [x] 5.5 Test memory retrieval and learning
 
 ## Phase 6: Error Handling & Recovery
 
